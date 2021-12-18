@@ -1,0 +1,28 @@
+{
+  "costsPanelOptions": [
+    {
+      "period": "Сегодня",
+      "sum": "0.00"
+    },
+    {
+      "period": "Неделя",
+      "sum": "0.00"
+    },
+    {
+      "period": "Месяц",
+      "sum": "0.00"
+    }
+  ],
+  "incomesPanelOptions": [
+    {
+      "period": "Месяц",
+      "sum": "0.00"
+    }
+  ],
+  "balancePanelOptions": [
+    {
+      "period": "Все время",
+      "sum": "0.00"
+    }
+  ]
+}
